@@ -16,15 +16,15 @@ TG交流群：t.me/btfans
 ###### 使用方法   
  **[(点此免费领取0.99元专业版体验券，3188元大礼包)](https://www.bt.cn/?invite_code=MV9yaHFycXY=)**   
 
-云服务器内访问网址
- https://raw.githubusercontent.com/gacjie/btwindows_tools/main/btwindows_tools.bat
-下载后双击执行
-之后按照提示操作即可
+云服务器内访问网址   
+ https://raw.githubusercontent.com/gacjie/btwindows_tools/main/btwindows_tools.bat   
+下载后双击执行  
+之后按照提示操作即可   
 
 ###### 功能说明
 ()登陆限制[去除宝塔windows面板强制登陆的限制]  
 ()面板降级[支持历史版本降级操作]  
-
+补充说明：由于宝塔官方将7.2.0及以下版本删除，因此面板文件为从raw下载，国内机器使用降级功能时，可能无法下载到文件。
 ###### 更新日志：
 2022年02月11日
 ()面板降级[增加降级面板功能]   
