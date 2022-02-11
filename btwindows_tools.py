@@ -141,7 +141,7 @@ def update_panel(panel_v):
     if os.path.exists(tmpPath): shutil.rmtree(tmpPath,True)
     if not os.path.exists(tmpPath): os.makedirs(tmpPath)
 
-    downUrl =  'https://gitee.com/gacjie/btwindows_tools/raw/master/panel/panel_' + panel_v + '.zip';
+    downUrl =  'https://raw.githubusercontent.com/gacjie/btwindows_tools/main/panel/panel_' + panel_v + '.zip';
     downloadFileByWget(downUrl,loacl_path);        
     unzip(loacl_path,tmpPath)    
     file_list = ['config/config.json','config/index.json','data/libList.conf','data/plugin.json']
