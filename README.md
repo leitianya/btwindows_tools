@@ -4,7 +4,8 @@
 宝塔win版工具箱，基于python3编写，支持win系统宝塔使用。
 
 ###### 作品截图
- ![btpanel_tools](https://gitee.com/gacjie/btwindows_tools/raw/master/btwindows_tools.jpg)   
+ ![btpanel_tools](https://raw.githubusercontent.com/gacjie/btwindows_tools/main/btwindows_tools.jpg)   
+
 
 ###### 技术交流
 脚本官网：www.btpanel.cm  
@@ -16,7 +17,7 @@ TG交流群：t.me/btfans
  **[(点此免费领取0.99元专业版体验券，3188元大礼包)](https://www.bt.cn/?invite_code=MV9yaHFycXY=)**   
 
 云服务器内访问网址
-https://gitee.com/gacjie/btwindows_tools/raw/master/btwindows_tools.bat
+ https://raw.githubusercontent.com/gacjie/btwindows_tools/main/btwindows_tools.bat
 下载后双击执行
 之后按照提示操作即可
 
